@@ -16,8 +16,9 @@ public class JavaOperator {
         int b=20;
         int c=a+b;
         System.out.println(c);
-        System.out.println("Git Hub");
-    }
+
+
+        }
     public void subtraction(){
         int a=20,b=30;
         int c=a-b;
